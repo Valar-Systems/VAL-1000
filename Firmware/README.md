@@ -1,7 +1,7 @@
-# VAL-2000 HTTP Server Firmware
-## Getting Started with the VAL-2000
+# VAL-1000 HTTP Server Firmware
+## Getting Started with the VAL-1000
 
-This firmware will get you started with spinning the VAL-2000 WiFi stepper board.
+This firmware will get you started with spinning the VAL-1000 WiFi stepper board.
 
 ## Step 1 - Connect Power & Motor
 1. Connect a 5-12V 2A+ power cord like [this](https://amzn.to/30qsbh7)
@@ -77,7 +77,7 @@ Enter in the name and password of your wifi router. Your device will now connect
 
 Change your wifi network back to your router because you will get disconnected from the VALAR-AP network.
 
-You now need to find the IP address that your router assigned to the VAL-2000 device. To do this, use a network scanning tool like [angryip](https://angryip.org/)
+You now need to find the IP address that your router assigned to the VAL-1000 device. To do this, use a network scanning tool like [angryip](https://angryip.org/)
 
 The hostname should be "esp32-arduino". Find the IP address of this device and enter the IP address into your browser.
 
