@@ -6,7 +6,7 @@
 
 
 String ip_address;
-String hostname = "val-1000";
+String hostname = "VAL-1000";
 
 AsyncWebServer serverAPI(8080);
 
